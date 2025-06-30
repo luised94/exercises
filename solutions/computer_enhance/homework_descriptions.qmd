@@ -1,0 +1,10 @@
+---
+title: Homework descriptions and notes for computer enhance
+---
+
+# Overview
+
+## 001 Instruction decoding on the 8086
+Purpose: Process binary instructions according to the manual.
+Must match listings 0037 and 0038.
+
